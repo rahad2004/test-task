@@ -3,10 +3,10 @@ import { FaAngleDown, FaChevronUp } from "react-icons/fa";
 const FaqItem = ({ course, handelOpen, index, length }) => {
   return (
     <div className="flex">
-      <div className="flex-2">
+      <div className="flex-2 hidden md:block">
         <p className="font-bold text-lg">{course.title}</p>
       </div>
-      <div className="flex-1 flex flex-col mt-2 relative">
+      <div className="flex-1 hidden md:flex flex-col mt-2 relative">
         <div
           className={`z-1 w-6 h-6 rounded-full border-[3px] border-[#553982] shrink-0 ${
             course.active ? "bg-[#553982]" : "bg-white"
