@@ -1,0 +1,80 @@
+{
+  "title": "Level 3 IT Support apprenticeship",
+  "tabs": [
+    {
+      "id": "tab-block-3--block-50-50-tabs-1",
+      "label": "The Value",
+      "active": false,
+      "content": {
+        "image": {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/rYVGbOMV8Ng/hq720.jpg",
+          "alt": "IT Sup thumbnail 24",
+          "videoUrl": "https://www.youtube.com/embed/rYVGbOMV8Ng"
+        },
+        "text": {
+          "heading": "The Value",
+          "duration": "12 Months and up to 3 Months End Point Assessment",
+          "description": "Create your next generation of outstanding IT Technicians. This apprenticeship creates expert Support Technicians with exceptional problem-solving skills. We teach people how to optimise systems, configure devices, and provide an effective IT support service centred around customer care.\nOur curriculum combines expert training and personal support to develop confidence alongside skill. We empower our apprentices to unlock their potential, keeping your IT systems and end-users working effectively.\nWhether you are a large IT solutions company that supports external clients, or a smaller in-house IT Department, an IT Support Technician apprentice is guaranteed to improve the overall efficiency and productivity of your company, by resolving technical issues and providing prompt solutions."
+        },
+        "button": {
+          "text": "Download Programme Outline",
+          "target": "#gated-content--tabbed-1",
+          "formData": {
+            "portalId": "146087294",
+            "formId": "7a2e6931-bae4-4ab7-bf08-9ece1ce1b7dc"
+          }
+        }
+      }
+    },
+    {
+      "id": "tab-block-3--block-50-50-tabs-2",
+      "label": "Who's It For?",
+      "active": true,
+      "content": {
+        "image": {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/b3R3MItyYgg/hq720.jpg",
+          "alt": "IT Sup thumbnail 24",
+          "videoUrl": "https://www.youtube.com/embed/XC49e0pliEE?si=zzX6-7VJ2aq9Hn5n"
+        },
+        "text": {
+          "heading": "Who's It For?",
+          "description": "Our Level 3 IT Support apprenticeship isn't just for career starters; our programme can act as a powerful professional development route for those already working within the industry.\nWhether your business is looking to recruit and train new IT talent or upskill your current IT team as part of their professional development plan, our Level 3 IT Support apprenticeship offers a dynamic and inclusive learning pathway for individuals at various stages of their careers.\nWe adopt a learner-focused approach; we know each learner will come with different levels of existing industry knowledge, learning styles, and learning preferences. That's why all our programmes are flexible, to ensure we can work with you and your apprentice to build the skills relevant to your business."
+        },
+        "button": {
+          "text": "Employ an Apprentice Guide",
+          "target": "#gated-content--tabbed-2",
+          "formData": {
+            "portalId": "146087294",
+            "formId": "d7e6d131-f537-444f-b41c-b2518cc994cb"
+          }
+        }
+      }
+    },
+    {
+      "id": "tab-block-3--block-50-50-tabs-3",
+      "label": "MicroSoft Pathership",
+      "active": true,
+      "content": {
+        "image": {
+          "type": "content",
+          "url": "https://i.ytimg.com/vi/b3R3MItyYgg/hq720.jpg",
+          "alt": "IT Sup thumbnail 24"
+        },
+        "text": {
+          "heading": "MicroSoft Pathership",
+          "description": "Our Level 3 IT Support apprenticeship isn't just for career starters; our programme can act as a powerful professional development route for those already working within the industry.\nWhether your business is looking to recruit and train new IT talent or upskill your current IT team as part of their professional development plan, our Level 3 IT Support apprenticeship offers a dynamic and inclusive learning pathway for individuals at various stages of their careers.\nWe adopt a learner-focused approach; we know each learner will come with different levels of existing industry knowledge, learning styles, and learning preferences. That's why all our programmes are flexible, to ensure we can work with you and your apprentice to build the skills relevant to your business."
+        },
+        "button": {
+          "text": "Employ an Apprentice Guide",
+          "target": "#gated-content--tabbed-2",
+          "formData": {
+            "portalId": "146087294",
+            "formId": "d7e6d131-f537-444f-b41c-b2518cc994cb"
+          }
+        }
+      }
+    }
+  ]
+}

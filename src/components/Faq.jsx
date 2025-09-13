@@ -12,7 +12,7 @@ const Faq = () => {
     setCourses(updateCourses);
   };
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto my-6">
       <div className="w-1/2 mb-8 space-y-2">
         <h1 className="font-bold text-3xl ">TECHNICAL TRAINING</h1>
         <p className="text-[16px] text-justify w-3/4">
